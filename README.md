@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erdem.</h1>
+<h1 align="center">Hi , I'm Erdem.</h1>
 <h3 align="center">R&D Analyst</h3>
 
 - 📫 How to reach me **erdmylkn@gmail.com**
